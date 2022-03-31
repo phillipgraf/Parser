@@ -1,4 +1,2 @@
 # Parser
-Parser Projekt aus Kurs Ki-Programmieren
-
-Programming a parser for the course AI-Programming.
+Parser coding project for the course "AI-Programming" in my studies.
